@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\personal_expenses\\personal_expenses\\.vs\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A641D7A-A39D-48E5-B071-536CD4A4D15A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\personal_expenses\\personal_expenses\\.vs\\windowsformsapp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A641D7A-A39D-48E5-B071-536CD4A4D15A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A641D7A-A39D-48E5-B071-536CD4A4D15A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\personal_expenses\\personal_expenses\\.vs\\windowsformsapp1\\windowsformsapp1\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A641D7A-A39D-48E5-B071-536CD4A4D15A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A641D7A-A39D-48E5-B071-536CD4A4D15A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\personal_expenses\\personal_expenses\\.vs\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A641D7A-A39D-48E5-B071-536CD4A4D15A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Month.cs",
+              "DocumentMoniker": "E:\\personal_expenses\\personal_expenses\\.vs\\WindowsFormsApp1\\WindowsFormsApp1\\Month.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Month.cs",
+              "ToolTip": "E:\\personal_expenses\\personal_expenses\\.vs\\WindowsFormsApp1\\WindowsFormsApp1\\Month.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Month.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:06:53.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\personal_expenses\\personal_expenses\\.vs\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "E:\\personal_expenses\\personal_expenses\\.vs\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:45:56.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\personal_expenses\\personal_expenses\\.vs\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",

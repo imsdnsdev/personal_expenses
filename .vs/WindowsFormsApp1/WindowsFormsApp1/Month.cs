@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Month
+    enum Month
     {
+        January = 1,
+        February,
+        March,
+        April,
+        May,
+        June,
+        July,
+        August,
+        September,
+        October,
+        November,
+        December
     }
 }
